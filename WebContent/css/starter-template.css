@@ -85,4 +85,30 @@ body {
 	font-size: 13px;
     padding-left: 2px;
 }
+
+.subT{
+    font-size: 15px;
+    line-height: 19px;
+    padding: 0 10px 10px;
+	}
+
+
+.panel-footer h3{
+	font-size: 13px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #37414e;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    padding-left: 40px;
+}
+
+.panel-footer ul{
+list-style-type: decimal;
+    font-size: 12px;
+    padding: 0 40px;
+}
+
+.panel-footer ul li{
+	padding-bottom: 10px;
+}
 	
